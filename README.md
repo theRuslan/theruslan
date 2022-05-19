@@ -2,7 +2,7 @@ Hey, my name is **Ruslan Zaynetdinov**.\
 I am **web developer** & **design engineer** based in Yekaterinburg.\
 I’m fond of both **design** and **code**.
 
-[Website](https://theruslan.ru/) (comming soon, I promise) |  [Telegram](https://t.me/theruslan) | [Drupal.org](https://www.drupal.org/u/theruslan) | [LinkedIn](https://www.linkedin.com/in/ruslanzaynetdinov) | [Facebook](https://www.facebook.com/theruslan.ru/) | [Instagram](https://instagram.com/theruslan) | [Bookmate](https://bookmate.com/@TheRuslan) | [Strava](https://www.strava.com/athletes/theruslan)
+[Website](https://theruslan.ru/) (comming soon, I promise) |  [Telegram](https://t.me/theruslan) | [LinkedIn](https://www.linkedin.com/in/ruslanzaynetdinov) | [Drupal.org](https://www.drupal.org/u/theruslan) | [Facebook](https://www.facebook.com/theruslan.ru/) | [Instagram](https://instagram.com/theruslan) | [Bookmate](https://bookmate.com/@TheRuslan) | [Strava](https://www.strava.com/athletes/theruslan)
 
 
 <!--
