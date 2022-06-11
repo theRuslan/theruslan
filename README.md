@@ -5,9 +5,7 @@
 </picture>
 
 
-# Hey, there!
-
-
+Hey, there!\
 My name is **Ruslan Zaynetdinov** (he/him/his).
 
 
