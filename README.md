@@ -1,17 +1,30 @@
-Hey, my name is **Ruslan Zaynetdinov**.\
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/GitHub-Dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/GitHub-Light.png">
+  <img alt="theRuslan logo" src="assets/GitHub-Dark.png">
+</picture>
+
+
+# Hey, there!
+
+
+My name is **Ruslan Zaynetdinov** (he/him/his).
+
+
 I am **web developer** & **design engineer** based in Yekaterinburg.\
-I’m fond of both **design** and **code**.
-
-[Website](https://theruslan.ru/) (comming soon, I promise) |  [Telegram](https://t.me/theruslan) | [LinkedIn](https://www.linkedin.com/in/ruslanzaynetdinov) | [Drupal.org](https://www.drupal.org/u/theruslan) | [Facebook](https://www.facebook.com/theruslan.ru/) | [Instagram](https://instagram.com/theruslan) | [Bookmate](https://bookmate.com/@TheRuslan) | [Strava](https://www.strava.com/athletes/theruslan)
+I’m fond of both **code** and **design**.
 
 
-<!--
-Here are some ideas to get you started:
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In love with **motorcycles** and **mototravels**.\
+**Vegan** since 2014.
+
+
+[Website](https://theruslan.ru/) |
+[Telegram](https://t.me/theruslan) |
+[LinkedIn](https://www.linkedin.com/in/ruslanzaynetdinov) |
+[Drupal.org](https://www.drupal.org/u/theruslan) |
+[Facebook](https://www.facebook.com/theruslan.ru/) |
+[Instagram](https://instagram.com/theruslan) |
+[Twitter](https://twitter.com/The__Ruslan) |
+[Bookmate](https://bookmate.com/@TheRuslan) |
+[Strava](https://www.strava.com/athletes/theruslan)
