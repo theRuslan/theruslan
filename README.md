@@ -7,7 +7,7 @@
 Hey, there!\
 My name is **Ruslan Zaynetdinov** (he/him/his).
 
-I am **web developer** & **design engineer** based in Yekaterinburg.\
+I am **web developer** & **design engineer** based in Izmir, Turkey.\
 I’m fond of both **code** and **design**.
 
 In love with **motorcycles** and **mototravels**.\
