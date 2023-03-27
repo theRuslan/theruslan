@@ -5,13 +5,14 @@
 </picture>
 
 Hey, there!\
-My name is **Ruslan Zaynetdinov** (he/him/his).
+My name is **Ruslan Zainetdinov** (he/him/his).
 
-I am **web developer** & **design engineer** based in Izmir, Turkey.\
-I’m fond of both **code** and **design**.
+I am a **web developer** and **web design engineer** based in İzmir, Türkiye (originally from Yekaterinburg, Russia).\
+I'm fond of both the code and the design.\
+I'm passionate about working on meaningful projects in areas such as sustainability, environmental protection, human rights, animal rights, equality, charity, NGOs.
 
-In love with **motorcycles** and **mototravels**.\
-**Vegan** since 2014.
+In love with motorcycles and mototravels.\
+Vegan since 2014.
 
 [![Website](https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=Firefox)](https://theruslan.ru/)
 [![Telegram](https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=Telegram)](https://t.me/theruslan)
