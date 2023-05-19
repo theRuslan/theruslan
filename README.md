@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/GitHub-Dark.png" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/GitHub-Light.png" />
-  <img alt="theRuslan logo" src="assets/GitHub-Dark.png" />
+  <source media="(prefers-color-scheme: dark)" srcset="/assets/GitHub-Dark.png" />
+  <source media="(prefers-color-scheme: light)" srcset="/assets/GitHub-Light.png" />
+  <img alt="theRuslan logo" src="/assets/GitHub-Dark.png" />
 </picture>
 
 Hey, there!\
