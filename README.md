@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theRuslan/theruslan/main/assets/GitHub-Dark.png" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theRuslan/theruslan/raw/main/assets/GitHub-Light.png" />
-  <img alt="theRuslan logo" src="https://raw.githubusercontent.com/theRuslan/theruslan/raw/main/assets/GitHub-Dark.png" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theRuslan/theruslan/main/assets/GitHub-Light.png" />
+  <img alt="theRuslan logo" src="https://raw.githubusercontent.com/theRuslan/theruslan/main/assets/GitHub-Dark.png" />
 </picture>
 
 Hey, there!\
