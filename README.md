@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/GitHub-Dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/GitHub-Light.png">
-  <img alt="theRuslan logo" src="assets/GitHub-Dark.png">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/GitHub-Dark.png" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/GitHub-Light.png" />
+  <img alt="theRuslan logo" src="assets/GitHub-Dark.png" />
 </picture>
 
 Hey, there!\
@@ -28,17 +28,17 @@ Vegan since 2014.
 <summary>GitHub Streak</summary>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=theruslan&theme=github-dark-blue&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=theruslan&theme=github-light&hide_border=true">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=theruslan&theme=github-dark-blue&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=theruslan&theme=github-dark-blue&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=theruslan&theme=github-light&hide_border=true" />
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=theruslan&theme=github-dark-blue&hide_border=true" />
 </picture>
 </details>
 
 <details>
 <summary>GitHub Profile Trophy</summary>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=theruslan&theme=darkhub&no-bg=true&no-frame=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=theruslan&no-bg=true&no-frame=true">
-  <img alt="GitHub Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=theruslan&theme=darkhub&no-bg=true&no-frame=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=theruslan&theme=darkhub&no-bg=true&no-frame=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=theruslan&no-bg=true&no-frame=true" />
+  <img alt="GitHub Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=theruslan&theme=darkhub&no-bg=true&no-frame=true" />
 </picture>
 </details>
