@@ -16,7 +16,7 @@ Vegan since 2014.
 
 [![Website](https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=Firefox)](https://theruslan.ru/)
 [![Telegram](https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=Telegram)](https://t.me/theruslan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/ruslanzaynetdinov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/the-Ruslan/)
 [![Drupal.org](https://img.shields.io/badge/Drupal.org-0D1117?style=for-the-badge&logo=Drupal)](https://www.drupal.org/u/theruslan)
 [![Facebook](https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=Facebook)](https://www.facebook.com/theruslan.ru/)
 [![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=Instagram)](https://instagram.com/theruslan)
