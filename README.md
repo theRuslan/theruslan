@@ -7,7 +7,7 @@
 Hey, there!\
 My name is **Ruslan Zainetdinov**.
 
-I am a **web developer** and **web design engineer** based in Novi Sad, Serbia (originally from Yekaterinburg, Russia).\
+I am a **web developer** and **web design engineer** based in Novi Sad, Serbia.\
 I'm fond of both the code and the design.\
 I'm passionate about working on meaningful projects in areas such as sustainability, environmental protection, human rights, animal rights, equality, charity, NGOs.
 
