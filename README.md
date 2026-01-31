@@ -26,9 +26,9 @@ When I'm not at my desk, you'll likely find me on a motorcycle trip or exploring
 <details>
 <summary>GitHub Streak</summary>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=theruslan&theme=github-dark-blue&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=theruslan&theme=github-light&hide_border=true" />
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=theruslan&theme=github-dark-blue&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=theruslan&theme=github-dark-blue&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=theruslan&theme=github-light&hide_border=true" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=theruslan&theme=github-dark-blue&hide_border=true" />
 </picture>
 </details>
 
