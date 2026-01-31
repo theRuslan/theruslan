@@ -35,8 +35,8 @@ When I'm not at my desk, you'll likely find me on a motorcycle trip or exploring
 <details>
 <summary>GitHub Profile Trophy</summary>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=theruslan&theme=darkhub&no-bg=true&no-frame=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=theruslan&no-bg=true&no-frame=true" />
-  <img alt="GitHub Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=theruslan&theme=darkhub&no-bg=true&no-frame=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-fork-two.vercel.app/?username=theruslan&theme=darkhub&no-bg=true&no-frame=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-fork-two.vercel.app/?username=theruslan&no-bg=true&no-frame=true" />
+  <img alt="GitHub Profile Trophy" src="https://github-profile-trophy-fork-two.vercel.app/?username=theruslan&theme=darkhub&no-bg=true&no-frame=true" />
 </picture>
 </details>
