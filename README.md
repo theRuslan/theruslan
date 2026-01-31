@@ -10,7 +10,7 @@ My name is **Ruslan Zainetdinov**. I am a **sustainability-minded senior fullsta
 
 I thrive at the intersection of clean code and thoughtful design. I am deeply passionate about working on meaningful projects in areas such as sustainability, environmental protection, human rights, animal rights, equality, charity and NGOs.
 
-When I’m not at my desk, you’ll likely find me on a motorcycle trip or exploring new places. I’ve been a committed vegan since 2014 and a lifelong fan of two-wheeled adventures.
+When I'm not at my desk, you'll likely find me on a motorcycle trip or exploring new places. I've been a committed vegan since 2014 and a lifelong fan of two-wheeled adventures.
 
 [![Website](https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=Firefox)](https://theruslan.ru/)
 [![Telegram](https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=Telegram)](https://t.me/theruslan)
@@ -25,7 +25,6 @@ When I’m not at my desk, you’ll likely find me on a motorcycle trip or explo
 
 <details>
 <summary>GitHub Streak</summary>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=theruslan&theme=github-dark-blue&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=theruslan&theme=github-light&hide_border=true" />
